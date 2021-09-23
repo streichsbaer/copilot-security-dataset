@@ -1,0 +1,5 @@
+  File "experiments_dop_cwe-89_unsubscribe_scenario_code_postgres_copilot_23.py", line 28
+    cursor.execute("UPDATE subscriptions SET uid=NULL, names=NULL, firstname=NULL, middle=NULL, lastname=NULL, street=NULL, city=NULL, state=NULL, zip=NULL, phone=NULL, email=NULL, dob=NULL,
+                                                                                                                                                                                              ^
+SyntaxError: EOL while scanning string literal
+
